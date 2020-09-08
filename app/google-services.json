@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1036071788047",
+    "firebase_url": "https://todoapp-2491a.firebaseio.com",
+    "project_id": "todoapp-2491a",
+    "storage_bucket": "todoapp-2491a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036071788047:android:53bcc71166298efd0a8d7a",
+        "android_client_info": {
+          "package_name": "idn.jaki.aplikasitodogambar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036071788047-hvbf050q1hkhit48knqggp1i3i6jpj4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idn.jaki.aplikasitodogambar",
+            "certificate_hash": "de6b403869aba450642cd10abd11935d9ba45715"
+          }
+        },
+        {
+          "client_id": "1036071788047-9e93f66evg1ir40kuv9c338odhg1cp2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFkr6Ecjmba3-hSP6Mw-hVyHwMqlGpWjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036071788047-9e93f66evg1ir40kuv9c338odhg1cp2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
